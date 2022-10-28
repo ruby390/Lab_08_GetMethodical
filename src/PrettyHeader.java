@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public class PrettyHeader {
+import java.util.Scanner;
+public class PrettyHeader {
 }
